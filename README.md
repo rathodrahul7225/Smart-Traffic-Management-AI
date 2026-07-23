@@ -68,5 +68,5 @@ Future improvements:
 - University of Helsinki
 - GitHub
 
-![AI Traffic managment]
+![AI Traffic Managment]
 (traffic-managment.png)
