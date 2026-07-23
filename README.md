@@ -67,3 +67,6 @@ Future improvements:
 - Building AI Course
 - University of Helsinki
 - GitHub
+
+![AI Traffic managment]
+(traffic-managment.png)
